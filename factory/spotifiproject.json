@@ -1,0 +1,15 @@
+{
+	"name": "spotifiproject",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "japaneast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "88835b1f-3601-44fc-bd20-1584c856d01c",
+		"tenantId": "2dff09ac-2b3b-4182-9953-2b548e0d0b39"
+	}
+}
